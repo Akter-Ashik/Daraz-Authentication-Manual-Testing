@@ -4,6 +4,8 @@ Manual test cases for Daraz's Signup, Login, and Forgot Password pages. Includes
 
 
 
+
+
 Daraz Authentication Manual Testing
 
 This repository contains comprehensive manual test cases for the following Daraz features:
@@ -16,6 +18,10 @@ Forgot Password Page – Account recovery via phone or email, including OTP veri
 
 Contents
 
+
+
+
+
 signup_test_cases.xlsx → Test cases for new account creation.
 
 login_test_cases.xlsx → Test cases for user login validation.
@@ -23,6 +29,8 @@ login_test_cases.xlsx → Test cases for user login validation.
 forgot_password_test_cases.xlsx → Test cases for password reset flow.
 
 Highlights
+
+
 
 ✅ Positive and negative test coverage
 
